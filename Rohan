@@ -1,0 +1,5 @@
+input("Please enter the temperature")
+if("the wheather is cold then Rohan will were a jacket")
+elsif("the wheather is mid Rohan will wear a tshirt and pants")
+elsif("the wheather is hot than Rohan will wear a shirt and shorts")
+else("the weather is boiling than Rohan will go to the beach")
